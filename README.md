@@ -2,6 +2,8 @@
 influxdb
 ========
 
+> **DEPRECATED:** We recommend using the official client at https://github.com/influxdata/influxdb/tree/master/client instead.
+
 Unofficial InfluxDB client written in Go to send stats and query the stored data.
 
 > This client library has additional goodies that the official one does not have (like interacting
